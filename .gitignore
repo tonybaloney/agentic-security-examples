@@ -1,5 +1,5 @@
 .env
-[.][v]env/
+[.][v]env*/
 __pycache__/
 *.pyc
 *.pyo
